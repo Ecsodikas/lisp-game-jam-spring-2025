@@ -1,2 +1,9 @@
-# lisp-game-jam-spring-2025
-Game for the Lisp Game Jam Spring 2025
+# bertas-adventure
+### _Your Name <your.name@example.com>_
+
+This is a project to do ... something.
+
+## License
+
+Specify license here
+
