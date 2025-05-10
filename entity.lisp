@@ -2,6 +2,9 @@
 
 (defclass base-entity () ())
 
+(defmethod entity-update ((entity base-entity) delta)
+  nil)
+
 (defclass transformable-entity (base-entity)
   ((entity-position
     :initarg :entity-position
